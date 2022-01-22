@@ -10,6 +10,8 @@ from .generator_model import Generator
 from torchvision.utils import save_image
 from skimage import io
 
+
+
 def main():
 
     DEVICE = "cpu"
